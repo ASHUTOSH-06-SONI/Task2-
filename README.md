@@ -1,5 +1,5 @@
-# Task2-Develop a system capable of detecting and
-tracking objects in real-time video streams. Use
-deep learning models like YOLO (You Only Look
-Once) or Faster R-CNN for accurate object
-detection and tracking
+Create an AI-powered music generation system capable
+of composing original music. Utilize deep learning
+techniques like Recurrent Neural Networks (RNNs) or
+Generative Adversarial Networks (GANs) to generate
+music sequences.
